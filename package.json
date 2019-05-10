@@ -1,0 +1,19 @@
+{
+  "name": "@idirdev/reqlog",
+  "version": "1.0.0",
+  "description": "HTTP request logging middleware for Node.js servers",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/reqlog.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  }
+}
